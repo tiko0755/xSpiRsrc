@@ -1,0 +1,2 @@
+# xSpiRsrc
+for test
